@@ -8,9 +8,9 @@
 ## 📞 Контакты
 
 - **Telegram**: [@elaborationVik](https://t.me/elaborationVik)
-- **Email**: [a.kostoyanskaya@yandex.ru](a.kostoyanskaya@yandex.ru)
-- **GitHub**: [kostoyanskaya](https://github.com/kostoyanskaya/)
-- 
+- **Email**:    [a.kostoyanskaya@yandex.ru](a.kostoyanskaya@yandex.ru)
+- **GitHub**:   [kostoyanskaya](https://github.com/kostoyanskaya/)
+
 ## Проекты
 Это некоторые работы, которые я выполняю я для прокачки навыков.
 
