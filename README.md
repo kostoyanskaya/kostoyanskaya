@@ -1,37 +1,36 @@
-# ➡️ Виктория Иванова 
+# ➡️ Victoria Ivanova
 
-## Python-разработчик 💻
+## Python Developer 💻
 
-### 📋✍️ Добро пожаловать на мой github.
-Я являюсь Python-разработчиком. Обладаю опытом работы с Python и его популярными библиотеками, а также фреймворками Django и Django Rest Framework, Flask. Имею практические навыки работы с различными системами управления базами данных, включая PostgreSQL, MySQL и SQLite. Успешно интегрировала API в свои проекты. Использую инструменты контейнеризации Docker, системы контроля версий Git и веб-серверы NGINX для обеспечения надежной работы приложений. Также владею навыками написания и оптимизации SQL-запросов. Отслеживала и вела историю изменений Git; Проводила тесты на Unittest и Pytest. Создавала ботов для Telegram. И многое другое. Декабрь 2023 — по настоящее время веду проектную деятельность.
+### 📋✍️ Welcome to my GitHub.
+I am a Python developer with over 2 years of total development experience, including more than 1 year of commercial experience. I have experience working with Python and its popular libraries, as well as the Django, Django Rest Framework, Flask, and FastAPI frameworks. I have practical skills in working with various database management systems, including PostgreSQL, MySQL, and SQLite. I have successfully integrated APIs into my projects. I use Docker for containerization, Git for version control, and NGINX web servers to ensure reliable application performance. I am also skilled in writing and optimizing SQL queries. I have tracked and maintained change history with Git; performed testing with Unittest and Pytest. I have created bots for Telegram. And much more. Since December 2023, I have been engaged in project-based activities.
 
-## Проекты
-Это некоторые работы, которые я выполняю для прокачки навыков.
+## Projects
+These are some of the works I do to improve my skills.
 
-Название|Описание | Стек
------------|:-------:|:--------: 
-[РецептГид](https://github.com/kostoyanskaya/foodgram)| Платформы обмена рецептами, которая предоставляет пользователям возможность публиковать свои рецепты, сохранять понравившиеся рецепты в избранное и подписываться на обновления от других авторов. Также реализована функция получения списка ингредиентов в удобном формате TXT. Это веб-сайт, где пользователи могут делиться своими кулинарными находками, добавлять рецепты других авторов в избранное и подписываться на публикации. Зарегистрированные пользователи также могут воспользоваться функцией «Список покупок», которая помогает организовать необходимый набор продуктов для приготовления выбранных блюд. «РецептГид» обеспечивает удобное пространство для обмена рецептами и планирования покупок, делая процесс приготовления пищи более удобным и увлекательным. | Django, Django REST Framework, Djoser, Pillow, PostgreSQL, Gunicorn
-[АртОбзор](https://github.com/kostoyanskaya/api_yamd)| С помощью REST API (DRF) я создала вместе с командой бэкенд для платформы, которая позволяет собирать пользовательские отзывы на произведения искусства. Это веб-сайт под названием «ArtReview» (или «АртОбзор»), который сосредоточен на таких категориях, как книги, фильмы и музыка, с возможностью в будущем расширять список категорий. Пользователи могут оставлять текстовые отзывы, выставлять оценки в диапазоне от 1 до 10, формируя общий рейтинг для каждого произведения. Все отзывы и комментарии к ним доступны для просмотра другими пользователями, что способствует активному обсуждению и обмену мнениями о произведениях искусства. | Python, Django REST framework
-[Telegram Bot](https://github.com/kostoyanskaya/homework_bot)| Я разработала бота-ассистента на Python с использованием Telegram Bot, который обеспечивает мониторинг статуса работы, отправленной на ревью через API сервиса. Бот опрашивает API каждые 10 минут, чтобы проверить актуальность статуса. При обновлении статуса он анализирует полученный ответ и отправляет пользователю соответствующее уведомление в Telegram, что позволяет оставаться в курсе изменений. Кроме того, бот ведет журнал своей работы и уведомляет пользователя о важных проблемах, отправляя сообщения в Telegram. Это делает взаимодействие с сервисом более простым и удобным. | Python, Telegram Bot, Pytest
-[МирБлога](https://github.com/kostoyanskaya/blogicum_django)| Я разработала проект «МирБлога», который служит пространством для креативных личностей, стирая границы между ведением блога и социальным взаимодействием. Платформа предлагает дружелюбную атмосферу и увлекательные истории, представляя пользователям новые, ранее неизвестные впечатления. Основные функции включают: Написание публикаций, редактирование, удаление; Просмотр чужих публикаций; Возможность добавлять картинки; Возможность написать и редактировать комментарии и многое другое. | Django, SQLite, Pytest
-[Фитнесайт](https://github.com/kostoyanskaya/fitness)| Разработала над проектом «Фитнесайт». «Фитнесайт» — это современный веб-ресурс, посвященный спортивному залу, где активный образ жизни стоят в центре внимания. На сайте пользователи смогут легко ознакомиться с полной информацией о нашем фитнес-центре: от расписания тренировок до фото. | Flask, PostgreSQL, SQLAlchemy
-## 📞 Контакты
+| Name | Description | Stack |
+|------|-------------|-------|
+| [RecipeGuide](https://github.com/kostoyanskaya/foodgram) | A recipe sharing platform that allows users to publish their recipes, save favorite recipes, and subscribe to updates from other authors. It also includes a function to get a list of ingredients in a convenient TXT format. This is a website where users can share their culinary finds, add other authors' recipes to favorites, and subscribe to publications. Registered users can also use the "Shopping List" function to organize the necessary set of products for preparing selected dishes. "RecipeGuide" provides a convenient space for sharing recipes and planning purchases, making the cooking process more convenient and enjoyable. | Django, Django REST Framework, Djoser, Pillow, PostgreSQL, Gunicorn |
+| [ArtReview](https://github.com/kostoyanskaya/api_yamd) | Using REST API (DRF), I collaborated with a team to create the backend for a platform that allows users to collect reviews of artworks. This is a website called "ArtReview" that focuses on categories such as books, movies, and music, with the possibility of expanding the list of categories in the future. Users can leave text reviews, give ratings from 1 to 10, forming an overall rating for each work. All reviews and comments are visible to other users, encouraging active discussion and exchange of opinions about artworks. | Python, Django REST framework |
+| [Telegram Bot](https://github.com/kostoyanskaya/homework_bot) | I developed an assistant bot in Python using the Telegram Bot API, which monitors the status of homework submitted for review via an API service. The bot polls the API every 10 minutes to check the status. When the status changes, it analyzes the response and sends a corresponding notification to the user on Telegram, allowing them to stay informed of changes. Additionally, the bot logs its work and notifies the user of important issues by sending messages on Telegram. This makes interaction with the service simpler and more convenient. | Python, Telegram Bot, Pytest |
+| [WorldOfBlog](https://github.com/kostoyanskaya/blogicum_django) | I developed the "WorldOfBlog" project, which serves as a space for creative individuals, blurring the lines between blogging and social interaction. The platform offers a friendly atmosphere and engaging stories, presenting users with new, previously unknown experiences. Key features include: Writing posts, editing, deleting; viewing others' posts; the ability to add pictures; the ability to write and edit comments, and much more. | Django, SQLite, Pytest |
+| [FitnessSite](https://github.com/kostoyanskaya/fitness) | I worked on the "FitnessSite" project. "FitnessSite" is a modern web resource dedicated to a gym, where an active lifestyle is the main focus. On the site, users can easily access complete information about the fitness center: from the class schedule to photos. | Flask, PostgreSQL, SQLAlchemy |
 
-- **Телефон**: +79939047655
+## 📞 Contacts
+
+- **Phone**: +995 599 018 547
 - **Telegram**: [@elaborationVik](https://t.me/elaborationVik)
-- **Email**:    [a.kostoyanskaya@yandex.ru](a.kostoyanskaya@yandex.ru)
-- **GitHub**:   [kostoyanskaya](https://github.com/kostoyanskaya/)
+- **Email**: [a.kostoyanskaya@yandex.ru](mailto:a.kostoyanskaya@yandex.ru)
+- **GitHub**: [kostoyanskaya](https://github.com/kostoyanskaya/)
 
-## Город проживания и страна
+## City and Country of Residence
 
- - Россия, г. Краснодар
+- Russia, Krasnodar
 
-  ## Обо мне
-В настоящее время я активно изучаю фреймворки FastAPI и развиваюсь каждый день, получая всё больше навыков. Работаю над своим Pet-проектом, я получаю практический опыт. Я прочитала книгу книгу "A Byte of Python", написанную К. Сварупом (Swaroop C H). Мой интерес к программированию на Python и готовность к динамичному обучению новым технологиям вдохновляют меня на дальнейшее развитие в этой области.
+## About Me
+I currently have a solid command of the FastAPI framework and continue to grow every day, gaining more and more skills. While working on my pet projects, I gain practical experience. I have read the book "A Byte of Python" written by Swaroop C H. My interest in Python programming and my readiness for dynamic learning of new technologies inspire me to further develop in this field.
 
-Буду рада обсудить возможное сотрудничество.
-
-
+I look forward to discussing possible collaboration.
 
 
 
