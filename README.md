@@ -3,7 +3,7 @@
 ## Python Developer 💻
 
 ### 📋✍️ Welcome to my GitHub.
-I am a Python developer with over 2 years of total development experience.. I have experience working with Python and its popular libraries, as well as the Django, Django Rest Framework, Flask, and FastAPI frameworks. I have practical skills in working with various database management systems, including PostgreSQL, MySQL, and SQLite. I have successfully integrated APIs into my projects. I use Docker for containerization, Git for version control, and NGINX web servers to ensure reliable application performance. I am also skilled in writing and optimizing SQL queries. I have tracked and maintained change history with Git; performed testing with Unittest and Pytest. I have created bots for Telegram. And much more. Since December 2023, I have been engaged in project-based activities.
+I am a Python developer with over 2 years of total development experience.  I have experience working with Python and its popular libraries, as well as with frameworks such as Django, Django REST Framework, Flask, and FastAPI. I have practical skills in working with various database management systems, including PostgreSQL, MySQL, and SQLite. I have successfully integrated APIs into my projects. I use Docker for containerization, Git for version control, and NGINX web servers to ensure reliable application performance. I am also skilled in writing and optimizing SQL queries. I have tracked and maintained change history with Git; performed testing with Unittest and Pytest. I have created bots for Telegram. And much more. Since December 2023, I have been engaged in project-based activities.
 
 ## Projects
 These are some of the works I do to improve my skills.
