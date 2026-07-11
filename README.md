@@ -1,4 +1,4 @@
-# ➡️ Victoria Ivanova
+# ➡️ Viktoriia Ivanova
 
 ## Python Developer 💻
 
