@@ -26,7 +26,7 @@ These are some of the works I do to improve my skills.
 
 ## City and Country of Residence
 
-- Russia, Krasnodar
+- Georgia, Serbia
 
 ## About Me
 I currently have a solid command of the FastAPI framework and continue to grow every day, gaining more and more skills. While working on my pet projects, I gain practical experience. I have read the book "A Byte of Python" written by Swaroop C H. My interest in Python programming and my readiness for dynamic learning of new technologies inspire me to further develop in this field.
