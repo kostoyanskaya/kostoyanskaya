@@ -3,7 +3,7 @@
 ## Python Developer 💻
 
 ### 📋✍️ Welcome to my GitHub.
-I am a Python developer with over 2 years of total development experience.  I have experience working with Python and its popular libraries, as well as with frameworks such as Django, Django REST Framework, Flask, and FastAPI. I have practical skills in working with various database management systems, including PostgreSQL, MySQL, and SQLite. I have successfully integrated APIs into my projects. I use Docker for containerization, Git for version control, and NGINX web servers to ensure reliable application performance. I am also skilled in writing and optimizing SQL queries. I have tracked and maintained change history with Git; performed testing with Unittest and Pytest. I have created bots for Telegram. And much more. Since December 2023, I have been engaged in project-based activities.
+I am a Python developer. I have experience working with Python and its popular libraries, as well as with frameworks such as Django, Django REST Framework, Flask, and FastAPI. I have practical skills in working with various database management systems, including PostgreSQL, MySQL, and SQLite. I have successfully integrated APIs into my projects. I use Docker for containerization, Git for version control, and NGINX web servers to ensure reliable application performance. I am also skilled in writing and optimizing SQL queries. I have tracked and maintained change history with Git; performed testing with Unittest and Pytest. I have created bots for Telegram. And much more. Since December 2023, I have been engaged in project-based activities.
 
 ## Projects
 These are some of the works I do to improve my skills.
@@ -17,13 +17,6 @@ These are some of the works I do to improve my skills.
 | [Telegram Bot](https://github.com/kostoyanskaya/homework_bot) | I developed an assistant bot in Python using the Telegram Bot API, which monitors the status of homework submitted for review via an API service. The bot polls the API every 10 minutes to check the status. When the status changes, it analyzes the response and sends a corresponding notification to the user on Telegram, allowing them to stay informed of changes. Additionally, the bot logs its work and notifies the user of important issues by sending messages on Telegram. This makes interaction with the service simpler and more convenient. | Python, Telegram Bot, Pytest |
 | [WorldOfBlog](https://github.com/kostoyanskaya/blogicum_django) | I developed the "WorldOfBlog" project, which serves as a space for creative individuals, blurring the lines between blogging and social interaction. The platform offers a friendly atmosphere and engaging stories, presenting users with new, previously unknown experiences. Key features include: Writing posts, editing, deleting; viewing others' posts; the ability to add pictures; the ability to write and edit comments, and much more. | Django, SQLite, Pytest |
 | [FitnessSite](https://github.com/kostoyanskaya/fitness) | I worked on the "FitnessSite" project. "FitnessSite" is a modern web resource dedicated to a gym, where an active lifestyle is the main focus. On the site, users can easily access complete information about the fitness center: from the class schedule to photos. | Flask, PostgreSQL, SQLAlchemy |
-
-## 📞 Contacts
-
-- **Phone**: +995 599 018 547
-- **Telegram**: [@elaborationVik](https://t.me/elaborationVik)
-- **Email**: [a.kostoyanskaya@yandex.ru](mailto:a.kostoyanskaya@yandex.ru)
-- **GitHub**: [kostoyanskaya](https://github.com/kostoyanskaya/)
 
 ## City and Country of Residence
 
