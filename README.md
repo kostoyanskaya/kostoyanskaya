@@ -18,9 +18,6 @@ These are some of the works I do to improve my skills.
 | [WorldOfBlog](https://github.com/kostoyanskaya/blogicum_django) | I developed the "WorldOfBlog" project, which serves as a space for creative individuals, blurring the lines between blogging and social interaction. The platform offers a friendly atmosphere and engaging stories, presenting users with new, previously unknown experiences. Key features include: Writing posts, editing, deleting; viewing others' posts; the ability to add pictures; the ability to write and edit comments, and much more. | Django, SQLite, Pytest |
 | [FitnessSite](https://github.com/kostoyanskaya/fitness) | I worked on the "FitnessSite" project. "FitnessSite" is a modern web resource dedicated to a gym, where an active lifestyle is the main focus. On the site, users can easily access complete information about the fitness center: from the class schedule to photos. | Flask, PostgreSQL, SQLAlchemy |
 
-## City and Country of Residence
-
-- Georgia, Serbia
 
 ## About Me
 I currently have a solid command of the FastAPI framework and continue to grow every day, gaining more and more skills. While working on my pet projects, I gain practical experience. I have read the book "A Byte of Python" written by Swaroop C H. My interest in Python programming and my readiness for dynamic learning of new technologies inspire me to further develop in this field.
